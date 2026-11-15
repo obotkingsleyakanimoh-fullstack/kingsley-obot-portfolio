@@ -1,0 +1,16 @@
+# Dependencies installed by npm on each machine/build server
+node_modules/
+
+# Generated Vite production output
+/dist/
+
+# Vercel local project metadata
+.vercel/
+
+# TypeScript incremental build cache
+*.tsbuildinfo
+
+# Local environment files (keep example templates)
+.env
+.env.*
+!.env.example
